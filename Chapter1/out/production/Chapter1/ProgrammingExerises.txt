@@ -1,0 +1,44 @@
+
+[1]
+
+a. legal but unconventional
+b. illegal
+c. illegal
+d. legal but unconventional
+e. legal but unconventional
+f. legal and conventional
+g. legal and conventional
+h. legal but unconventional
+i. illegal
+j. legal but unconventional
+
+[2]
+
+a. illegal
+b. legal and conventional
+c. illegal
+d. illegal
+e. illegal
+f. illegal
+g. legal and conventional
+h. illegal
+i. legal and conventional
+j. illegal
+
+[3]
+
+a. price,location,numberOfRooms
+b. place,price,travelAgency
+c. availableAmount,ownerName,nameOfBank
+
+[4]
+
+a. ArtistName,GreatestSongs,Playlist
+b. StudentName,ListOfColleges,NameOfCollege
+c. FavouriteSong,GreatestSongs,Top50BestArtists
+
+[5]
+
+a. 
+b.
+c.
