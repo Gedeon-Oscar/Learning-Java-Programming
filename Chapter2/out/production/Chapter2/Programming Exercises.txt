@@ -1,0 +1,39 @@
+
+[1]
+
+a. 16
+b. 10
+c. 11
+d. 8.5
+e. 4.4
+f. 3.9
+g. 4
+h. 29
+i. 4
+j. 0
+
+[2]
+
+a. false
+b. false
+c. true
+d. false
+e. true
+f. false
+g. false
+h. true
+i. false
+j. false
+
+[3]
+
+a. byte numOfSiblings = 3;        ::The byte data type is the smallest with a maximum value of 127  
+b. float finalGrade = 50.6; ::The value is a percentage
+c. long populationOfEarth = 9,223,372,036,854  ::Icreases on a daily basis and is greater than the maximum of an int
+d. int populationOfUSA = 2,147,483 ::The int data type has the second largest max value
+e. byte numberOfPassengers = 13;  :: "
+f. btye  playerScore = 5;         ::"
+g. byte  teamScore = 25;          ::"
+h. short historicalEvent = 1865;    ::Current year has not yet surpassed the short data type max value
+i. byte animalNumberOfLegs = 2;     ::Can only be either a 2 or 4
+j. int autoMobilePrice = 4,500,000  ::Automobiles have a wide pricing range of values
